@@ -1,0 +1,29 @@
+https://console.firebase.google.com
+
+
+var firebaseConfig = {
+    apiKey: "AIzaSyCWyVxzhAnTpIJEIIYGGgEZnnY7jTRjREI",
+    authDomain: "instaclone-eb42c.firebaseapp.com",
+    databaseURL: "https://instaclone-eb42c.firebaseio.com",
+    projectId: "instaclone-eb42c",
+    storageBucket: "instaclone-eb42c.appspot.com",
+    messagingSenderId: "565853425093",
+    appId: "1:565853425093:web:251b8eccd4306c5eb64fac"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+
+
+
+//INSTALL
+
+expo init instaclone
+
+expo install react-navigation react-navigation-tabs react-navigation-stack firebase
+
+expo install native-base
+
+expo install react-native-gesture-handler react-native-reanimated
+
+
+expo install react-navigation react-navigation-stack react-native-reanimated react-native-gesture-handler redux react-redux redux-thunk firebase

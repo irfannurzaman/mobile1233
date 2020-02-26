@@ -1,0 +1,9 @@
+react-native init myapp
+
+npm i -g expo-cli
+
+
+expo --version
+
+expo init introRN
+

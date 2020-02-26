@@ -1,0 +1,12 @@
+mau upload repo baru
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/irfannurzaman/Ujian-Mobile.git
+git push -u origin master
+
+update repo
+git add .
+git commit -m "apaan kek"
+git remote add origin https://github.com/irfannurzaman/Ujian-Mobile.git
+git push -u origin master

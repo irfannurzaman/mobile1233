@@ -1,0 +1,11 @@
+ var firebaseConfig = {
+    apiKey: "AIzaSyAGwgkPeORTT3-Y8utfNOoDiaTEpEGOnis",
+    authDomain: "intsa-ujian.firebaseapp.com",
+    databaseURL: "https://intsa-ujian.firebaseio.com",
+    projectId: "intsa-ujian",
+    storageBucket: "intsa-ujian.appspot.com",
+    messagingSenderId: "796709155374",
+    appId: "1:796709155374:web:22099fabf5ecf8d7f0e5bf"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);

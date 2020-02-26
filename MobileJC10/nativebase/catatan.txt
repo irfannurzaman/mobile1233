@@ -1,0 +1,21 @@
+expo init nativebase
+
+npm install native-base
+
+npm add react-redux redux redux-thunk
+
+npm install react-navigation react-navigation-tabs react-navigation-stack
+
+ npm install react-native-gesture-handler react-native-reanimated
+
+
+
+
+
+
+ // curried Function
+const fnCurried = param => nextParam => {
+
+}
+
+fnCurried(3)(3)
